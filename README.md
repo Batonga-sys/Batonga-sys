@@ -5,7 +5,7 @@
   </h2>
 
   <h3 align="center">
-    Je suis actuellement alternante chez La poste en tant que Data Scientist/analyst et à la recherche de mon premier CDI🚀.<fr>
+    Je suis actuellement alternante chez La poste en tant que Data Scientist/Analyst et à la recherche de mon premier CDI🚀.<fr>
   </h3>
 
 
