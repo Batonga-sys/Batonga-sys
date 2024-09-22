@@ -1,9 +1,12 @@
-<h1 align="center">Bonjour!  <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>
+  <h1 align="center">Bonjour!  <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>
 
-# Bienvenue sur le Github d'Elie (Elisabeth-Lucie) Étudiante en Master Data & Intelligence Artificielle 🎓
+  <h2 align="center">
+    Bienvenue sur le Github d'Elie (Elisabeth-Lucie) Étudiante en Master Data & Intelligence Artificielle 🎓<fr>
+  </h2>
 
-
-# Je suis actuellement apprentie chez **La poste** en tant que **Data Scientist** / **analyst** et à la recherche de mon premier CDI. 
+  <h3 align="center">
+    Je suis actuellement apprentie chez **La poste** en tant que **Data Scientist** / **analyst** et à la recherche de mon premier CDI🚀.<fr>
+  </h3>
 
 
 <p align="center">
