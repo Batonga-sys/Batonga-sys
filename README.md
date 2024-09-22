@@ -18,7 +18,7 @@ _______________________________________________________________________
 # Pourquoi Data et non Psychologue? <img align="center" src="https://media4.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="60">
 
 
-Imaginez un psy qui écoute les problèmes de ses patients toute la journée. Fatigue émotionnelle, montagnes russes sentimentales, et des "mais pourquoi elle m'a ghosté ?" à répétition. Maintenant, imaginez-vous Data Analyst ou Data Scientist. Toi, tu parles à des chiffres. Eux, ils ne pleurent pas, ils ne te mentent pas, ils ne t'appellent pas à 3h du matin en panique pour dire qu'ils ont fait une "grosse bêtise".😕
+Imaginez un psy qui écoute les problèmes de ses patients toute la journée. Fatigue émotionnelle, montagnes russes sentimentales, et des "mais pourquoi elle m'a ghosté ?" à répétition. Maintenant, imaginez-vous le Data Analyst ou Data Scientist. Moi, je parle à des chiffres. Eux, ils ne pleurent pas, ils ne te mentent pas, ils ne t'appellent pas à 3h du matin en panique pour dire qu'ils ont fait une "grosse bêtise".😕
 
 Plus sérieusement, j'ai fait le choix de la data à la suite de mon première master (économie appliquée) qui est centré sur les statistiques. Après la réalisation de plusieurs projets en R studio et un début d'apprentissage de Python, j'ai décidé d'éveiller d'avantage ma curiosité dans le monde de la programmation. Ainsi, Fiare des chiffres mes amis fidèles, et les graphiques ton terrain de jeu. Tout comme un psy resoudre des énigmes mais avec beaucoup moins de Kleenex et beaucoup plus de Python. 😄
 
