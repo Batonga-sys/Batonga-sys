@@ -24,7 +24,7 @@ Plus sérieusement, j'ai fait le choix de la data à la suite de mon première m
 
 _______________________________________________________________________
 
-# Expérience en entreprise en 2 ans
+# Expériences en entreprise durant mes 2 ans de master Data & IA
 
 J'ai eu à faire mon stage de master 1 chez **Danone** où je contribuais à suivre les tendances de ventes des produits dans différentes régions; à Comprendre la performance de chaque produit et identifier les produits les plus populaires et ceux qui sous-performent via le langage de requete : *SQL* et **Power** **BI**. 
 
