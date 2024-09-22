@@ -1,7 +1,7 @@
   <h1 align="center">Bonjour!  <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>
 
   <h2 align="center">
-    Bienvenue sur le Github d'Elie (Elisabeth-Lucie) Étudiante en Master Data & Intelligence Artificielle 🎓<fr>
+    Bienvenue sur le Github d'Elie (Elisabeth-Lucie)! Je suis étudiante en Master Data & Intelligence Artificielle 🎓<fr>
   </h2>
 
   <h3 align="center">
