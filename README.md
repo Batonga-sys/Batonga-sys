@@ -35,4 +35,4 @@ _______________________________________________________________________
 # Qu'est ce que je fais sur Github ? 😏
 
 Je developpe des projets personnels en Python et en R studio pour renforcer mes connaissances pour toujours aller plus loin et avancer dans le monde de la data. 
-Voilà !! J'espère que ma présentation vous aura plus ainsi que mes projets actuels et ceux à venir  😌 
+Voilà !! J'espère que ma présentation vous aura plu ainsi que mes projets actuels et ceux à venir  😌 
